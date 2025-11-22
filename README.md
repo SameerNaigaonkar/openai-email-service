@@ -36,7 +36,7 @@ A small Node.js/Express project that integrates OpenAI to assist with composing 
 - Install dependencies:
 
 ```powershell
-cd "c:\Users\LENOVO\Desktop\ai-email assistant project"; npm install
+cd "c:\Users\ npm install
 ```
 
 - Start the server (if `package.json` has a `start` script) or run directly with Node:
